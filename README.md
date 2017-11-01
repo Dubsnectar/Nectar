@@ -1,2 +1,0 @@
-# Nectar
-Proyecto Para Innovación 
